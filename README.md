@@ -80,11 +80,11 @@ Từ vấn đề trên, việc triển khai các cảm biến đo lường, hệ
 
 #### 5. **Mô Hình Hệ Thống Bến Cảng**
 - Hệ thống bến cảng được thiết kế trên phần mềm Autodesk Fusion 360 để phục vụ in 3D. Dưới đây là hình ảnh thiết kế mô hình:
-![image](https://github.com/user-attachments/assets/a9a74a09-af38-4567-9869-24c5d10c3f6f)
+![image](https://github.com/user-attachments/assets/120494c2-b689-411a-b629-d49b6a4ffd55)
 
-![image](https://github.com/user-attachments/assets/547df133-8ee1-4450-a3dc-7d85c1f1c244)
+![image](https://github.com/user-attachments/assets/33434b31-2fbb-406c-b241-3ede7cefb5c6)
 
-![image](https://github.com/user-attachments/assets/a5bb9b2c-2a35-4c4e-ab91-cf3d74d468e3)
+![image](https://github.com/user-attachments/assets/ca9e93b6-0e93-4f52-95f2-7495dda2804a)
 
 ---
 ### Mục tiêu đề tài
@@ -98,7 +98,7 @@ Từ vấn đề trên, việc triển khai các cảm biến đo lường, hệ
 - Đảm bảo an toàn hoạt động khai thác với hệ thống giám sát mực nước.
 ### Sơ đồ khối
 
-![CKIOT drawio](https://github.com/user-attachments/assets/7d4121c8-ab81-4efe-a104-7783ee9f4f2e)
+![CKIOT drawio](https://github.com/user-attachments/assets/7dea3c5c-ce10-44ea-961d-5b9d5a5d5ad0)
 
 ### Kết quả
 
