@@ -104,3 +104,13 @@ Từ vấn đề trên, việc triển khai các cảm biến đo lường, hệ
 
 Các kết quả được thể hiện trong link drive sau: https://drive.google.com/drive/folders/1L92neevsPCF2J952qQxhsg_2pOWCFQuE?lfhs=2
 
+### Kết luận
+Dự án Smart Port System đã được xây dựng và triển khai ở mức mô phỏng, tập trung vào giải quyết những vấn đề cơ bản tại cảng biển như giám sát tải trọng, quản lý ra vào cảng, bãi đỗ xe, và mực nước khai thác. Kết quả đạt được đã cho thấy tiềm năng của việc ứng dụng công nghệ IoT trong việc tối ưu hóa hoạt động cảng biển.
+
+- Khả năng ứng dụng thực tiễn: Dự án đã mô phỏng thành công các chức năng chính của một hệ thống quản lý cảng thông minh, chứng minh khả năng cải thiện hiệu suất vận hành và an toàn.
+
+- Tối ưu hóa qua công nghệ: Việc sử dụng ESP32, giao thức MQTT và các cảm biến đã giúp tích hợp các thành phần điện tử vào một hệ thống thống nhất, hoạt động ổn định và tương thích tốt.
+
+- Cơ sở cho nghiên cứu tương lai: Mô phỏng này là bước đầu tiên để xây dựng và thử nghiệm các tính năng, từ đó tạo cơ sở triển khai hệ thống ở quy mô thực tế với độ phức tạp và tính năng nâng cao hơn.
+
+Tuy đây chỉ là mô phỏng, nhưng dự án đã cung cấp cái nhìn toàn diện về cách ứng dụng IoT để hiện đại hóa hoạt động tại cảng biển. Hệ thống là tiền đề để phát triển thêm các chức năng và thử nghiệm thực tế, đóng góp tích cực vào việc đổi mới công nghệ trong lĩnh vực hàng hải và logistics.
