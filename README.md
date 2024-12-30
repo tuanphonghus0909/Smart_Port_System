@@ -98,7 +98,7 @@ Từ vấn đề trên, việc triển khai các cảm biến đo lường, hệ
 - Đảm bảo an toàn hoạt động khai thác với hệ thống giám sát mực nước.
 ### Sơ đồ khối
 
-![CKIOT drawio](https://github.com/user-attachments/assets/7dea3c5c-ce10-44ea-961d-5b9d5a5d5ad0)
+![image](https://github.com/user-attachments/assets/4a38c649-4bf4-41e0-b140-031cfe9c2f54)
 
 ### Kết quả
 
